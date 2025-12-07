@@ -12,7 +12,7 @@
       "name": "migrating-to-swift-concurrency-skill",
       "description": "The complete content of the Swift Concurrency Migration Guide.",
       "repository": "https://github.com/kylehughes/the-unofficial-swift-concurrency-migration-skill",
-      "version": "20251206",
+      "version": "20251207",
       "author": {
         "name": "Kyle Hughes",
         "email": "kyle@kylehugh.es"

